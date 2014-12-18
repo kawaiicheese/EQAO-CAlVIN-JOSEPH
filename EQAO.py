@@ -104,7 +104,7 @@ grd6 = "Fake_EQAO_gr6.csv"
 infile6 = open(grd6, "r")
 #infile9diag = open(grd9diag, "r")
 
-
+test = "hello"
 
 
 # Import data from files
